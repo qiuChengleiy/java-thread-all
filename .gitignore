@@ -12,6 +12,7 @@ bin-release/
 *.air
 *.ipa
 *.apk
+*.sh
 
 # Project files, i.e. `.project`, `.actionScriptProperties` and `.flexProperties`
 # should NOT be excluded as they contain compiler settings and other important
@@ -20,4 +21,5 @@ bin-release/
 /logs/**
 
 */target/**
+
 
