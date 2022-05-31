@@ -9,6 +9,7 @@
 ## 配套文章
 - [Java多线程专题之线程与进程概述](https://mp.weixin.qq.com/s/PvFx7mm46bsFl94IUWZMUw)
 - [Java多线程专题之线程类和接口入门](https://mp.weixin.qq.com/s/Uze3brfNfqMg8eGUqU0lHg)
+- [Java多线程专题之进阶学习Thread(含源码分析)](https://mp.weixin.qq.com/s/R9MUmSmEF3HvNAV441rmrw)
 
 ## 往期内容
 
