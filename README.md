@@ -11,7 +11,7 @@
 - [Java多线程专题之线程类和接口入门](https://mp.weixin.qq.com/s/Uze3brfNfqMg8eGUqU0lHg)
 - [Java多线程专题之进阶学习Thread(含源码分析)](https://mp.weixin.qq.com/s/R9MUmSmEF3HvNAV441rmrw)
 - [Java多线程专题之Callable、Future与FutureTask(含源码分析)](https://mp.weixin.qq.com/s/qlKTI3VXBJfypy6XvFo0cg)
-
+- [面试官: 有了解过线程组和线程优先级吗](https://mp.weixin.qq.com/s/obLO_Bmq9Uuy0VuF9z7NeA)
 
 ## 往期内容
 
