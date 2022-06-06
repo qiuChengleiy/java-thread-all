@@ -12,6 +12,7 @@
 - [Java多线程专题之进阶学习Thread(含源码分析)](https://mp.weixin.qq.com/s/R9MUmSmEF3HvNAV441rmrw)
 - [Java多线程专题之Callable、Future与FutureTask(含源码分析)](https://mp.weixin.qq.com/s/qlKTI3VXBJfypy6XvFo0cg)
 - [面试官: 有了解过线程组和线程优先级吗](https://mp.weixin.qq.com/s/obLO_Bmq9Uuy0VuF9z7NeA)
+- [面试官: 说一下线程的生命周期过程](https://mp.weixin.qq.com/s/LsyduaUkTdeTaZ3S3phAIw)
 
 ## 往期内容
 
