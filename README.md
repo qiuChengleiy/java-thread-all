@@ -2,9 +2,6 @@
 
 欢迎star ⭐️  [我的博客(阅读体验较佳)](https://www.qiuchenglei.top)
 
-## 介绍
-
-
 
 ## 配套文章
 - [Java多线程专题之线程与进程概述](https://mp.weixin.qq.com/s/PvFx7mm46bsFl94IUWZMUw)
@@ -13,6 +10,11 @@
 - [Java多线程专题之Callable、Future与FutureTask(含源码分析)](https://mp.weixin.qq.com/s/qlKTI3VXBJfypy6XvFo0cg)
 - [面试官: 有了解过线程组和线程优先级吗](https://mp.weixin.qq.com/s/obLO_Bmq9Uuy0VuF9z7NeA)
 - [面试官: 说一下线程的生命周期过程](https://mp.weixin.qq.com/s/LsyduaUkTdeTaZ3S3phAIw)
+- [面试官: 说一下线程间的通信](https://mp.weixin.qq.com/s/oKYUxw01YasA-sMFH8W3GQ)
+- [面试官: 说一下Java的共享内存模型](https://mp.weixin.qq.com/s/-n0x_Amt4t4V30IIXj0FnA)
+- [面试官: 有了解过指令重排吗，什么是happens-before](https://mp.weixin.qq.com/s/3nGVYKxaavweU40da96OMg)
+
+
 
 ## 往期内容
 
