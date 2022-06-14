@@ -14,7 +14,7 @@
 - [面试官: 说一下Java的共享内存模型](https://mp.weixin.qq.com/s/-n0x_Amt4t4V30IIXj0FnA)
 - [面试官: 有了解过指令重排吗，什么是happens-before](https://mp.weixin.qq.com/s/3nGVYKxaavweU40da96OMg)
 - [面试官: 有了解过volatile关键字吗 说说看](https://mp.weixin.qq.com/s/uSDAw_X3R7X-f3TvqXDuzg)
-
+- [面试官: 有了解过Synchronized吗 说说看](https://mp.weixin.qq.com/s/pY3A2iWb0derRXY2tx3SiQ)
 
 ## 往期内容
 
