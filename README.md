@@ -15,6 +15,9 @@
 - [面试官: 有了解过指令重排吗，什么是happens-before](https://mp.weixin.qq.com/s/3nGVYKxaavweU40da96OMg)
 - [面试官: 有了解过volatile关键字吗 说说看](https://mp.weixin.qq.com/s/uSDAw_X3R7X-f3TvqXDuzg)
 - [面试官: 有了解过Synchronized吗 说说看](https://mp.weixin.qq.com/s/pY3A2iWb0derRXY2tx3SiQ)
+- [Java多线程专题之Lock锁的使用](https://mp.weixin.qq.com/s/KtS0cnnWQZItcwGKYxJ6pw)
+- [面试官: 有了解过ReentrantLock的底层实现吗？说说看](https://mp.weixin.qq.com/s/IErZZadVkqazjvUOibi-eQ)
+- [面试官: 有了解过CAS和原子操作吗？说说看](https://mp.weixin.qq.com/s/Waw9C4QHWqOH5nOoHT6sEQ)
 
 ## 往期内容
 
