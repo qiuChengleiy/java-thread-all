@@ -18,7 +18,10 @@
 - [Java多线程专题之Lock锁的使用](https://mp.weixin.qq.com/s/KtS0cnnWQZItcwGKYxJ6pw)
 - [面试官: 有了解过ReentrantLock的底层实现吗？说说看](https://mp.weixin.qq.com/s/IErZZadVkqazjvUOibi-eQ)
 - [面试官: 有了解过CAS和原子操作吗？说说看](https://mp.weixin.qq.com/s/Waw9C4QHWqOH5nOoHT6sEQ)
-
+- [Java多线程专题之线程池的基本使用](https://mp.weixin.qq.com/s/7PHqofkjX_L4kHU1agTCfg)
+- [面试官: 有了解过线程池的工作原理吗？说说看](https://mp.weixin.qq.com/s/mTrV4tr70zT-umtWtyyIiQ)
+- [面试官: 线程池是如何做到线程复用的？有了解过吗，说说看](https://mp.weixin.qq.com/s/t1xU4rJFsHjzF9uWkXFjGA)
+- 
 ## 往期内容
 
 - [写给初学者的Java基础教程](https://mp.weixin.qq.com/s/sogOD_ymRfriUYFUSC0H1w)
