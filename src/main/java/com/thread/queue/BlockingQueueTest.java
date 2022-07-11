@@ -18,7 +18,7 @@ public class BlockingQueueTest {
         System.out.println(queue.add("3"));
         // System.out.println(queue.add("4"));
 
-//        System.out.println(queue.remove());
+        System.out.println(queue.remove());
 //
 //        System.out.println(queue);
 

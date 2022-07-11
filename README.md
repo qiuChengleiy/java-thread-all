@@ -21,7 +21,9 @@
 - [Java多线程专题之线程池的基本使用](https://mp.weixin.qq.com/s/7PHqofkjX_L4kHU1agTCfg)
 - [面试官: 有了解过线程池的工作原理吗？说说看](https://mp.weixin.qq.com/s/mTrV4tr70zT-umtWtyyIiQ)
 - [面试官: 线程池是如何做到线程复用的？有了解过吗，说说看](https://mp.weixin.qq.com/s/t1xU4rJFsHjzF9uWkXFjGA)
-- 
+- [面试官: 阻塞队列有了解过吗?说说看](https://mp.weixin.qq.com/s/SeF4BnGzqg2ossG2fhlU_g)
+- [面试官: 阻塞队列的底层实现有了解过吗? 说说看](https://mp.weixin.qq.com/s/zcc10wGeV0AkfH9OUmjL9g)
+- [面试官: 同步容器和并发容器有用过吗? 说说看](https://mp.weixin.qq.com/s/4BbePlrfDbyOR7V8TK6nfw)
 ## 往期内容
 
 - [写给初学者的Java基础教程](https://mp.weixin.qq.com/s/sogOD_ymRfriUYFUSC0H1w)
