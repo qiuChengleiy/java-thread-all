@@ -24,6 +24,11 @@
 - [面试官: 阻塞队列有了解过吗?说说看](https://mp.weixin.qq.com/s/SeF4BnGzqg2ossG2fhlU_g)
 - [面试官: 阻塞队列的底层实现有了解过吗? 说说看](https://mp.weixin.qq.com/s/zcc10wGeV0AkfH9OUmjL9g)
 - [面试官: 同步容器和并发容器有用过吗? 说说看](https://mp.weixin.qq.com/s/4BbePlrfDbyOR7V8TK6nfw)
+- [面试官: CopyOnWrite容器有了解过吗? 说说看](https://mp.weixin.qq.com/s/lE0BErDXLIFUGSiM-FWmPg)
+- [面试官: Semaphore在项目中有使用过吗？说说看(源码剖析)](https://mp.weixin.qq.com/s/x_q0FQqsmP5ojQF4e6PXAg)
+
+
+
 ## 往期内容
 
 - [写给初学者的Java基础教程](https://mp.weixin.qq.com/s/sogOD_ymRfriUYFUSC0H1w)
