@@ -28,7 +28,7 @@
 - [面试官: Semaphore在项目中有使用过吗？说说看(源码剖析)](https://mp.weixin.qq.com/s/x_q0FQqsmP5ojQF4e6PXAg)
 - [面试官: Exchanger在项目中有使用过吗？说说看(源码剖析)](https://mp.weixin.qq.com/s/4Ik4z_8gfzftLDb0FFW6tw)
 - [面试官: CountDownLatch有了解过吗？说说看(源码剖析)](https://mp.weixin.qq.com/s/nABrvJ0A5NL0OqF_J6AIlA)
-
+- [面试官: CyclicBarrier有了解过吗？说说看(源码剖析)](https://mp.weixin.qq.com/s/2Zoh3jUYnnL9TTj0kw8q3w)
 
 ## 往期内容
 
