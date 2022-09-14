@@ -1,4 +1,4 @@
-## Java多线程专题
+## Java多线程专题(已完结)
 
 欢迎star ⭐️  [我的博客(阅读体验较佳)](https://www.qiuchenglei.top)
 
@@ -31,7 +31,7 @@
 - [面试官: CyclicBarrier有了解过吗？说说看(源码剖析)](https://mp.weixin.qq.com/s/2Zoh3jUYnnL9TTj0kw8q3w)
 - [面试官: Phaser有了解过吗？说说看](https://mp.weixin.qq.com/s/rAAc1UH-iP6ox4LpmBJvEQ)
 - [面试官: Fork/Join 有了解过吗？说说看（含源码分析）](https://mp.weixin.qq.com/s/YESb3PH12jHAn8HSs_yQ9g)
-
+- [面试官: Stream并行流有了解过吗？说说看](https://mp.weixin.qq.com/s/Nmexsl9RrHZudRBrU0b1FA)
 ## 往期内容
 
 - [写给初学者的Java基础教程](https://mp.weixin.qq.com/s/sogOD_ymRfriUYFUSC0H1w)
